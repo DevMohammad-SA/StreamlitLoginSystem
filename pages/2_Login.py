@@ -21,8 +21,6 @@ except sq.Error as e:
     conn = None
 # Login function
 
-is_logged_in = False
-
 
 def login():
     if not username_input or not password_input:
