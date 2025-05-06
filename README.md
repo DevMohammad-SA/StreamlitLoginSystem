@@ -41,13 +41,13 @@ A simple and secure user authentication app built using Streamlit. This app can 
 - **Security:** Consider implementing additional security measures such as hashing passwords using libraries like `bcrypt`.
 
 ## File Structure
-
+```
 streamlit-login-app/
 ├── app.py # Main Streamlit application
 ├── users.json # Sample user credentials (for demonstration purposes)
 ├── requirements.txt # List of required Python libraries
 └── README.md # Project documentation
-
+```
 ## Contributing
 
 Contributions are welcome! Feel free to fork the repository, submit a pull request, or open an issue.
@@ -56,4 +56,4 @@ Contributions are welcome! Feel free to fork the repository, submit a pull reque
 
 This project is licensed under the [MIT License][def].
 
-[def]: LICENSE
+[def]: https://github.com/DevMohammad-SA/StreamlitLoginSystem/blob/master/LICENCE
